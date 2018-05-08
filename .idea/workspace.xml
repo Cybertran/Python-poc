@@ -2,50 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="54104ad2-b114-42eb-b218-99348617efb0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ducks.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exception/CustomException.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exception/ExceptionHandling.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/1000 Maniacs/Our Time in Eden/1 - Candy Everybody Wants.emp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/1000 Maniacs/Our Time in Eden/10 - Noah's Dove.emp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/1000 Maniacs/Our Time in Eden/11 - Stockton Gala Days.emp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/1000 Maniacs/Our Time in Eden/12 - These Are Days.emp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/1000 Maniacs/Our Time in Eden/13 - Tolerance.emp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/1000 Maniacs/Our Time in Eden/2 - Circle Dream.emp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/1000 Maniacs/Our Time in Eden/3 - Eden.emp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/1000 Maniacs/Our Time in Eden/4 - Few And Far Between.emp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/1000 Maniacs/Our Time in Eden/5 - Gold Rush Brides.emp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/1000 Maniacs/Our Time in Eden/6 - How You've Grown.emp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/1000 Maniacs/Our Time in Eden/7 - If You Intend.emp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/1000 Maniacs/Our Time in Eden/8 - I'm Not The Man.emp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/1000 Maniacs/Our Time in Eden/9 - Jezebel.emp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/10cc/The Best Of The Early Years/1 - Rubber Bullets.emp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/10cc/The Best Of The Early Years/10 - Silly Love.emp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/10cc/The Best Of The Early Years/11 - Sand In My Face.emp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/10cc/The Best Of The Early Years/12 - Speed Kills.emp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/10cc/The Best Of The Early Years/13 - The Hospital Song.emp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/10cc/The Best Of The Early Years/14 - The Dean And I.emp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/10cc/The Best Of The Early Years/15 - Old Wild Men.emp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/10cc/The Best Of The Early Years/16 - The Worst Band In The World.emp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/10cc/The Best Of The Early Years/17 - Hot Sun Rock.emp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/10cc/The Best Of The Early Years/18 - Bee In My Bonnet.emp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/10cc/The Best Of The Early Years/19 - 4% Of Something.emp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/10cc/The Best Of The Early Years/2 - The Wall Street Shuffle.emp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/10cc/The Best Of The Early Years/20 - Clockwork Creep.emp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/10cc/The Best Of The Early Years/3 - Waterfall.emp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/10cc/The Best Of The Early Years/4 - Headline Hustler.emp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/10cc/The Best Of The Early Years/5 - Somewhere In Hollywood.emp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/10cc/The Best Of The Early Years/6 - Donna.emp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/10cc/The Best Of The Early Years/7 - Ships Don't Disappear In The Night.emp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/10cc/The Best Of The Early Years/8 - Fresh Air For My Mama.emp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/10cc/The Best Of The Early Years/9 - Johnny Don't Do It.emp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/oswalker/music.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/contacts.sqlite" afterPath="$PROJECT_DIR$/database/contacts.sqlite" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/Account.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python-poc.iml" afterPath="$PROJECT_DIR$/Python-poc.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/Contact.py" afterPath="$PROJECT_DIR$/database/Contact.py" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -56,6 +14,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Python-poc$Account.coverage" NAME="Account Coverage Results" MODIFIED="1525769887613" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/database" />
     <SUITE FILE_PATH="coverage/Python-poc$CustomException.coverage" NAME="CustomException Coverage Results" MODIFIED="1525766488897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exception" />
     <SUITE FILE_PATH="coverage/Python-poc$Contact.coverage" NAME="Contact Coverage Results" MODIFIED="1525767392651" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/database" />
     <SUITE FILE_PATH="coverage/Python-poc$ducks.coverage" NAME="ducks Coverage Results" MODIFIED="1525765878077" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -72,20 +31,6 @@
     <option name="SHOW_TABLE_DETAILS" value="true" />
     <option name="SHOW_EMPTY_GROUPS" value="false" />
     <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
-    <PATH>
-      <PATH_ELEMENT>
-        <option name="myItemId" />
-        <option name="myItemType" value="com.intellij.database.view.DatabaseStructure$Root" />
-      </PATH_ELEMENT>
-      <PATH_ELEMENT>
-        <option name="myItemId" value="contacts" />
-        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
-      </PATH_ELEMENT>
-      <PATH_ELEMENT>
-        <option name="myItemId" value="contacts" />
-        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
-      </PATH_ELEMENT>
-    </PATH>
   </component>
   <component name="DevPartner.ProjectWorkspace">
     <option name="runtimeAnalysisType" value="-1" />
@@ -133,12 +78,50 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="14" lean-forward="false" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+            <state relative-caret-position="119">
+              <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Account.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/database/Account.py">
+          <provider selected="true" editor-type-id="live-pycharm">
+            <state>
+              <first_editor relative-caret-position="74">
+                <caret line="22" column="56" lean-forward="true" selection-start-line="22" selection-start-column="56" selection-end-line="22" selection-end-column="56" />
+                <folding>
+                  <marker date="1525769887591" expanded="true" signature="67:158" ph="CREATE TABLE... IF" />
+                  <marker date="1525769887591" expanded="true" signature="67:159" ph="CREATE TABLE... account" />
+                  <marker date="1525769887591" expanded="true" signature="174:314" ph="CREATE TABLE... IF" />
+                </folding>
+              </first_editor>
+              <second_editor relative-caret-position="-119">
+                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                <folding />
+              </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="accounts.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/oops/accounts.py">
+          <provider selected="true" editor-type-id="live-pycharm">
+            <state>
+              <first_editor relative-caret-position="34">
+                <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="34" selection-end-column="100" />
+                <folding>
+                  <element signature="e#0#15#0" expanded="true" />
+                </folding>
+              </first_editor>
+              <second_editor relative-caret-position="0">
+                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                <folding />
+              </second_editor>
             </state>
           </provider>
         </entry>
@@ -234,6 +217,7 @@
         <option value="$PROJECT_DIR$/database/Contact.py" />
         <option value="$PROJECT_DIR$/oswalker/music.py" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/database/Account.py" />
       </list>
     </option>
   </component>
@@ -282,34 +266,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Python-poc" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Python-poc" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="oswalker" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Python-poc" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Python-poc" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="music" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -330,25 +286,7 @@
       <recent name="C:\Users\NEX6ASM\repos\Python-poc" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.music">
-    <configuration default="false" name="ExceptionHandling" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exception" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Python-poc" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exception/ExceptionHandling.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.Account">
     <configuration default="false" name="ducks" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -417,6 +355,24 @@
       <module name="Python-poc" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/oswalker/music.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Account" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/database" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Python-poc" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/database/Account.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -1038,19 +994,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.ExceptionHandling" />
-      <item index="1" class="java.lang.String" itemvalue="Python.ducks" />
-      <item index="2" class="java.lang.String" itemvalue="Python.CustomException" />
-      <item index="3" class="java.lang.String" itemvalue="Python.Contact" />
-      <item index="4" class="java.lang.String" itemvalue="Python.music" />
+      <item index="0" class="java.lang.String" itemvalue="Python.ducks" />
+      <item index="1" class="java.lang.String" itemvalue="Python.CustomException" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Contact" />
+      <item index="3" class="java.lang.String" itemvalue="Python.music" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Account" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.music" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Contact" />
-        <item index="2" class="java.lang.String" itemvalue="Python.CustomException" />
-        <item index="3" class="java.lang.String" itemvalue="Python.ducks" />
-        <item index="4" class="java.lang.String" itemvalue="Python.ExceptionHandling" />
+        <item index="0" class="java.lang.String" itemvalue="Python.Account" />
+        <item index="1" class="java.lang.String" itemvalue="Python.music" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Contact" />
+        <item index="3" class="java.lang.String" itemvalue="Python.CustomException" />
+        <item index="4" class="java.lang.String" itemvalue="Python.ducks" />
       </list>
     </recent_temporary>
   </component>
@@ -1064,16 +1020,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1525763287828</updated>
-      <workItem from="1525763289969" duration="5471000" />
+      <workItem from="1525763289969" duration="7772000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5471000" />
+    <option name="totallyTimeSpent" value="7772000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="2" width="1932" height="1045" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Amazon EC2" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -1085,7 +1041,7 @@
       <window_info id="JSON Viewer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.014423077" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.09668803" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -1099,7 +1055,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="LiquibaseModel" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -1258,9 +1214,43 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="14" lean-forward="false" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+        <state relative-caret-position="119">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oops/accounts.py">
+      <provider selected="true" editor-type-id="live-pycharm">
+        <state>
+          <first_editor relative-caret-position="34">
+            <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="34" selection-end-column="100" />
+            <folding>
+              <element signature="e#0#15#0" expanded="true" />
+            </folding>
+          </first_editor>
+          <second_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/Account.py">
+      <provider selected="true" editor-type-id="live-pycharm">
+        <state>
+          <first_editor relative-caret-position="74">
+            <caret line="22" column="56" lean-forward="true" selection-start-line="22" selection-start-column="56" selection-end-line="22" selection-end-column="56" />
+            <folding>
+              <marker date="1525769887591" expanded="true" signature="67:158" ph="CREATE TABLE... IF" />
+              <marker date="1525769887591" expanded="true" signature="67:159" ph="CREATE TABLE... account" />
+              <marker date="1525769887591" expanded="true" signature="174:314" ph="CREATE TABLE... IF" />
+            </folding>
+          </first_editor>
+          <second_editor relative-caret-position="-119">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </second_editor>
         </state>
       </provider>
     </entry>
