@@ -12,4 +12,19 @@ for name,phone,email in cursor:
     print(email)
     print(phone)
     print("-" * 20)
+
+
+# fetch one by one from db
+print(cursor.fetchone())
+
+# fetch all records
+print(cursor.fetchall())
+
+print("----------------------------")
+for name,email, phone in db.execute("SELECT * FROM contacts"):
+    print(name ,email ,phone)
+    print("-"*30)
+
+
+db.commit()
 db.close()

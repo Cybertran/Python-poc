@@ -2,3 +2,6 @@
 .idea/
 
 
+oops/__pycache__/
+.idea/workspace.xml
+.idea/misc.xml

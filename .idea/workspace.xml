@@ -1,139 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="66ce8966-3491-4f08-9508-8055d3e5e58c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cards/10_club.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cards/10_club.ppm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cards/10_diamond.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cards/10_diamond.ppm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cards/10_heart.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cards/10_heart.ppm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cards/10_spade.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cards/10_spade.ppm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cards/1_club.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cards/1_club.ppm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cards/1_diamond.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cards/1_diamond.ppm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cards/1_heart.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cards/1_heart.ppm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cards/1_spade.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cards/1_spade.ppm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cards/2_club.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cards/2_club.ppm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cards/2_diamond.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cards/2_diamond.ppm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cards/2_heart.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cards/2_heart.ppm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cards/2_spade.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cards/2_spade.ppm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cards/3_club.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cards/3_club.ppm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cards/3_diamond.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cards/3_diamond.ppm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cards/3_heart.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cards/3_heart.ppm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cards/3_spade.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cards/3_spade.ppm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cards/4_club.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cards/4_club.ppm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cards/4_diamond.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cards/4_diamond.ppm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cards/4_heart.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cards/4_heart.ppm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cards/4_spade.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cards/4_spade.ppm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cards/5_club.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cards/5_club.ppm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cards/5_diamond.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cards/5_diamond.ppm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cards/5_heart.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cards/5_heart.ppm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cards/5_spade.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cards/5_spade.ppm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cards/6_club.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cards/6_club.ppm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cards/6_diamond.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cards/6_diamond.ppm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cards/6_heart.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cards/6_heart.ppm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cards/6_spade.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cards/6_spade.ppm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cards/7_club.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cards/7_club.ppm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cards/7_diamond.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cards/7_diamond.ppm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cards/7_heart.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cards/7_heart.ppm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cards/7_spade.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cards/7_spade.ppm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cards/8_club.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cards/8_club.ppm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cards/8_diamond.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cards/8_diamond.ppm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cards/8_heart.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cards/8_heart.ppm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cards/8_spade.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cards/8_spade.ppm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cards/9_club.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cards/9_club.ppm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cards/9_diamond.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cards/9_diamond.ppm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cards/9_heart.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cards/9_heart.ppm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cards/9_spade.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cards/9_spade.ppm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cards/back.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cards/black_joker.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cards/jack_club.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cards/jack_club.ppm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cards/jack_diamond.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cards/jack_diamond.ppm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cards/jack_heart.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cards/jack_heart.ppm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cards/jack_spade.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cards/jack_spade.ppm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cards/king_club.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cards/king_club.ppm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cards/king_diamond.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cards/king_diamond.ppm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cards/king_heart.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cards/king_heart.ppm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cards/king_spade.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cards/king_spade.ppm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cards/queen_club.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cards/queen_club.ppm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cards/queen_diamond.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cards/queen_diamond.ppm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cards/queen_heart.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cards/queen_heart.ppm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cards/queen_spade.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cards/queen_spade.ppm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cards/red_joker.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/contacts.sqlite" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BlackJack.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Collections.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ControlFlow.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FunctionExample.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ModuleExample.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python-poc.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StringFormating.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Variables.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cards/AUTHORS" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cards/COPYING" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cards/Changelog" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cards/NEWS" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cards/README" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/Contact.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/oops/ClassExample.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/oops/DocExample.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/oops/accounts.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/oops/interitance/Enemy.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/oops/interitance/main.py" />
+    <list default="true" id="54104ad2-b114-42eb-b218-99348617efb0" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ducks.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exception/CustomException.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exception/ExceptionHandling.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/1000 Maniacs/Our Time in Eden/1 - Candy Everybody Wants.emp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/1000 Maniacs/Our Time in Eden/10 - Noah's Dove.emp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/1000 Maniacs/Our Time in Eden/11 - Stockton Gala Days.emp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/1000 Maniacs/Our Time in Eden/12 - These Are Days.emp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/1000 Maniacs/Our Time in Eden/13 - Tolerance.emp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/1000 Maniacs/Our Time in Eden/2 - Circle Dream.emp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/1000 Maniacs/Our Time in Eden/3 - Eden.emp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/1000 Maniacs/Our Time in Eden/4 - Few And Far Between.emp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/1000 Maniacs/Our Time in Eden/5 - Gold Rush Brides.emp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/1000 Maniacs/Our Time in Eden/6 - How You've Grown.emp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/1000 Maniacs/Our Time in Eden/7 - If You Intend.emp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/1000 Maniacs/Our Time in Eden/8 - I'm Not The Man.emp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/1000 Maniacs/Our Time in Eden/9 - Jezebel.emp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/10cc/The Best Of The Early Years/1 - Rubber Bullets.emp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/10cc/The Best Of The Early Years/10 - Silly Love.emp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/10cc/The Best Of The Early Years/11 - Sand In My Face.emp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/10cc/The Best Of The Early Years/12 - Speed Kills.emp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/10cc/The Best Of The Early Years/13 - The Hospital Song.emp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/10cc/The Best Of The Early Years/14 - The Dean And I.emp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/10cc/The Best Of The Early Years/15 - Old Wild Men.emp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/10cc/The Best Of The Early Years/16 - The Worst Band In The World.emp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/10cc/The Best Of The Early Years/17 - Hot Sun Rock.emp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/10cc/The Best Of The Early Years/18 - Bee In My Bonnet.emp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/10cc/The Best Of The Early Years/19 - 4% Of Something.emp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/10cc/The Best Of The Early Years/2 - The Wall Street Shuffle.emp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/10cc/The Best Of The Early Years/20 - Clockwork Creep.emp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/10cc/The Best Of The Early Years/3 - Waterfall.emp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/10cc/The Best Of The Early Years/4 - Headline Hustler.emp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/10cc/The Best Of The Early Years/5 - Somewhere In Hollywood.emp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/10cc/The Best Of The Early Years/6 - Donna.emp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/10cc/The Best Of The Early Years/7 - Ships Don't Disappear In The Night.emp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/10cc/The Best Of The Early Years/8 - Fresh Air For My Mama.emp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/10cc/The Best Of The Early Years/9 - Johnny Don't Do It.emp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/oswalker/music.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/contacts.sqlite" afterPath="$PROJECT_DIR$/database/contacts.sqlite" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python-poc.iml" afterPath="$PROJECT_DIR$/Python-poc.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/Contact.py" afterPath="$PROJECT_DIR$/database/Contact.py" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -144,38 +56,58 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/Python-poc$Variables.coverage" NAME="Variables Coverage Results" MODIFIED="1525328406124" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Python-poc$ControlFlow.coverage" NAME="ControlFlow Coverage Results" MODIFIED="1525333096413" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Python-poc$Contact.coverage" NAME="Contact Coverage Results" MODIFIED="1525700027603" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/database" />
-    <SUITE FILE_PATH="coverage/Python-poc$DocStringDemo.coverage" NAME="DocStringDemo Coverage Results" MODIFIED="1525414841620" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oops" />
-    <SUITE FILE_PATH="coverage/Python-poc$main.coverage" NAME="main Coverage Results" MODIFIED="1525694831839" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oops" />
-    <SUITE FILE_PATH="coverage/Python-poc$ClassExample.coverage" NAME="ClassExample Coverage Results" MODIFIED="1525411935699" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Python-poc$Collections.coverage" NAME="Collections Coverage Results" MODIFIED="1525686357571" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Python_poc$Collections.coverage" NAME="Collections Coverage Results" MODIFIED="1525684942913" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Python-poc$accounts.coverage" NAME="accounts Coverage Results" MODIFIED="1525413927921" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oops" />
-    <SUITE FILE_PATH="coverage/Python-poc$ModuleExample.coverage" NAME="ModuleExample Coverage Results" MODIFIED="1525342508285" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Python_poc$main.coverage" NAME="main Coverage Results" MODIFIED="1525686100862" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oops" />
-    <SUITE FILE_PATH="coverage/Python-poc$HelloWorld.coverage" NAME="HelloWorld Coverage Results" MODIFIED="1525326752155" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Python-poc$StringFormating.coverage" NAME="StringFormating Coverage Results" MODIFIED="1525328513855" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Python-poc$BlackJack.coverage" NAME="BlackJack Coverage Results" MODIFIED="1525353635165" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Python-poc$FunctionExample.coverage" NAME="FunctionExample Coverage Results" MODIFIED="1525347080897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python-poc$CustomException.coverage" NAME="CustomException Coverage Results" MODIFIED="1525766488897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exception" />
+    <SUITE FILE_PATH="coverage/Python-poc$Contact.coverage" NAME="Contact Coverage Results" MODIFIED="1525767392651" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/database" />
+    <SUITE FILE_PATH="coverage/Python-poc$ducks.coverage" NAME="ducks Coverage Results" MODIFIED="1525765878077" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python-poc$music.coverage" NAME="music Coverage Results" MODIFIED="1525768564261" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oswalker" />
+    <SUITE FILE_PATH="coverage/Python-poc$ExceptionHandling.coverage" NAME="ExceptionHandling Coverage Results" MODIFIED="1525765123650" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exception" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DatabaseView">
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" />
+        <option name="myItemType" value="com.intellij.database.view.DatabaseStructure$Root" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="contacts" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="contacts" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+    </PATH>
   </component>
   <component name="DevPartner.ProjectWorkspace">
     <option name="runtimeAnalysisType" value="-1" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="main.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/oops/interitance/main.py">
+    <leaf>
+      <file leaf-file-name="Contact.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/database/Contact.py">
           <provider selected="true" editor-type-id="live-pycharm">
             <state>
-              <first_editor relative-caret-position="272">
-                <caret line="16" column="16" lean-forward="false" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
-                <folding />
+              <first_editor relative-caret-position="425">
+                <caret line="25" column="17" lean-forward="true" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
+                <folding>
+                  <marker date="1525767444237" expanded="true" signature="67:140" ph="CREATE TABLE... contacts" />
+                  <marker date="1525767444237" expanded="true" signature="155:250" ph="INSERT INTO contacts... " />
+                  <marker date="1525767444237" expanded="true" signature="265:356" ph="INSERT INTO contacts... " />
+                  <marker date="1525767444237" expanded="true" signature="371:457" ph="INSERT INTO contacts... " />
+                  <marker date="1525767444237" expanded="true" signature="498:520" ph="SELECT * FRO... contacts" />
+                  <marker date="1525767444237" expanded="true" signature="523:699" ph="..." />
+                  <marker date="1525767444237" expanded="true" signature="801:823" ph="SELECT * FRO... contacts" />
+                </folding>
               </first_editor>
               <second_editor relative-caret-position="0">
                 <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -185,19 +117,13 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Contact.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/database/Contact.py">
+      <file leaf-file-name="music.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/oswalker/music.py">
           <provider selected="true" editor-type-id="live-pycharm">
             <state>
-              <first_editor relative-caret-position="238">
-                <caret line="14" column="10" lean-forward="false" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
-                <folding>
-                  <marker date="1525700027581" expanded="true" signature="67:140" ph="CREATE TABLE... IF" />
-                  <marker date="1525700027581" expanded="true" signature="155:250" ph="INSERT INTO contacts... " />
-                  <marker date="1525700027581" expanded="true" signature="265:356" ph="INSERT INTO contacts... " />
-                  <marker date="1525700027581" expanded="true" signature="371:457" ph="INSERT INTO contacts... " />
-                  <marker date="1525700027581" expanded="true" signature="498:520" ph="SELECT * FRO... contacts" />
-                </folding>
+              <first_editor relative-caret-position="102">
+                <caret line="6" column="25" lean-forward="true" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+                <folding />
               </first_editor>
               <second_editor relative-caret-position="0">
                 <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -210,19 +136,67 @@
       <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+            <state relative-caret-position="102">
+              <caret line="6" column="14" lean-forward="false" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Enemy.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/oops/interitance/Enemy.py">
+      <file leaf-file-name="ExceptionHandling.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/exception/ExceptionHandling.py">
           <provider selected="true" editor-type-id="live-pycharm">
             <state>
-              <first_editor relative-caret-position="731">
-                <caret line="43" column="59" lean-forward="false" selection-start-line="43" selection-start-column="59" selection-end-line="43" selection-end-column="59" />
+              <first_editor relative-caret-position="289">
+                <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor relative-caret-position="0">
+                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                <folding />
+              </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ducks.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ducks.py">
+          <provider selected="true" editor-type-id="live-pycharm">
+            <state>
+              <first_editor relative-caret-position="414">
+                <caret line="44" column="0" lean-forward="false" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor relative-caret-position="-119">
+                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                <folding />
+              </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CustomException.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/exception/CustomException.py">
+          <provider selected="true" editor-type-id="live-pycharm">
+            <state>
+              <first_editor relative-caret-position="102">
+                <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor relative-caret-position="0">
+                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                <folding />
+              </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main.py">
+          <provider selected="true" editor-type-id="live-pycharm">
+            <state>
+              <first_editor relative-caret-position="68">
+                <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor relative-caret-position="0">
@@ -253,25 +227,12 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/HelloWorld.py" />
-        <option value="$PROJECT_DIR$/Variables.py" />
-        <option value="$PROJECT_DIR$/StringFormating.py" />
-        <option value="$PROJECT_DIR$/ControlFlow.py" />
-        <option value="$PROJECT_DIR$/Collections.py" />
-        <option value="$PROJECT_DIR$/ModuleExample.py" />
-        <option value="$PROJECT_DIR$/FunctionExample.py" />
-        <option value="$PROJECT_DIR$/BlackJack.py" />
-        <option value="$PROJECT_DIR$/ClassExample.py" />
-        <option value="$PROJECT_DIR$/MethodExample.py" />
-        <option value="$PROJECT_DIR$/oops/accounts.py" />
-        <option value="$PROJECT_DIR$/oops/song.py" />
-        <option value="$PROJECT_DIR$/oops/DocStringDemo.py" />
-        <option value="$PROJECT_DIR$/oops/main.py" />
-        <option value="$PROJECT_DIR$/oops/Enemy.py" />
-        <option value="$PROJECT_DIR$/oops/interitance/Vampyre.py" />
-        <option value="$PROJECT_DIR$/oops/interitance/Enemy.py" />
-        <option value="$PROJECT_DIR$/oops/interitance/main.py" />
+        <option value="$PROJECT_DIR$/exception/ExceptionHandling.py" />
+        <option value="$PROJECT_DIR$/ducks.py" />
+        <option value="$PROJECT_DIR$/main.py" />
+        <option value="$PROJECT_DIR$/exception/CustomException.py" />
         <option value="$PROJECT_DIR$/database/Contact.py" />
+        <option value="$PROJECT_DIR$/oswalker/music.py" />
         <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
@@ -282,31 +243,14 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="NodePackageJsonFileManager">
-    <packageJsonPaths />
-  </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-7" />
     <option name="y" value="2" />
     <option name="width" value="1932" />
     <option name="height" value="1045" />
   </component>
-  <component name="ProjectInspectionProfilesVisibleTreeState">
-    <entry key="Project Default">
-      <profile-state>
-        <expanded-state>
-          <State>
-            <id />
-          </State>
-          <State>
-            <id>Google App Engine (Python)</id>
-          </State>
-          <State>
-            <id>Python</id>
-          </State>
-        </expanded-state>
-      </profile-state>
-    </entry>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -323,6 +267,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -336,123 +282,105 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Python-poc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Python-poc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="oswalker" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Python-poc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Python-poc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="music" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+    <property name="last_opened_file_path" value="D:/visualvm_14/visualvm_14/bin/visualvm" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
-    <property name="js.eslint.eslintPackage" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable" />
-    <property name="project.structure.last.edited" value="Global Libraries" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.splitter.proportion" value="0.21553884" />
-  </component>
-  <component name="PyConsoleOptionsProvider">
-    <option name="myPythonConsoleState">
-      <console-settings sdk-home="C:\Users\NEX6ASM\AppData\Local\Programs\Python\Python36-32\python.exe">
-        <option name="mySdkHome" value="C:\Users\NEX6ASM\AppData\Local\Programs\Python\Python36-32\python.exe" />
-      </console-settings>
-    </option>
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="Sqlite (Xerial)" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\NEX6ASM\repos\Python-poc\cards" />
+      <recent name="C:\Users\NEX6ASM\repos\Python-poc\music" />
       <recent name="C:\Users\NEX6ASM\repos\Python-poc" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\NEX6ASM\repos\Python-poc\oops\interitance" />
-      <recent name="C:\Users\NEX6ASM\repos\Python-poc\oops" />
-    </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Python.Contact">
-    <configuration default="false" name="Collections" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.music">
+    <configuration default="false" name="ExceptionHandling" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="C:\Users\NEX6ASM\AppData\Local\Programs\Python\Python36-32\python.exe" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exception" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Python-poc" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exception/ExceptionHandling.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="ducks" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Python-poc" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Collections.py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ducks.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="DocStringDemo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="CustomException" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/oops" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exception" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Python-poc" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/oops/DocStringDemo.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="accounts" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/oops" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Python-poc" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/oops/accounts.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\NEX6ASM\AppData\Local\Programs\Python\Python36-32\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/oops" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Python-poc" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/oops/interitance/main.py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exception/CustomException.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -463,14 +391,32 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="C:\Users\NEX6ASM\AppData\Local\Programs\Python\Python36-32\python.exe" />
+      <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/database" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Python-poc" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/database/Contact.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="music" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/oswalker" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Python-poc" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/oswalker/music.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -780,7 +726,6 @@
       <setting name="passParentEnv" value="true" />
       <setting name="launchBrowser" value="true" />
       <setting name="launchBrowserUrl" value="" />
-      <setting name="depsClasspath" value="false" />
       <method />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
@@ -967,12 +912,6 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
-      <node-interpreter>project</node-interpreter>
-      <node-options />
-      <gulpfile />
-      <tasks />
-      <arguments />
-      <envs />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
@@ -1099,84 +1038,76 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.Collections" />
-      <item index="1" class="java.lang.String" itemvalue="Python.DocStringDemo" />
-      <item index="2" class="java.lang.String" itemvalue="Python.accounts" />
-      <item index="3" class="java.lang.String" itemvalue="Python.main" />
-      <item index="4" class="java.lang.String" itemvalue="Python.Contact" />
+      <item index="0" class="java.lang.String" itemvalue="Python.ExceptionHandling" />
+      <item index="1" class="java.lang.String" itemvalue="Python.ducks" />
+      <item index="2" class="java.lang.String" itemvalue="Python.CustomException" />
+      <item index="3" class="java.lang.String" itemvalue="Python.Contact" />
+      <item index="4" class="java.lang.String" itemvalue="Python.music" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.Contact" />
-        <item index="1" class="java.lang.String" itemvalue="Python.main" />
-        <item index="2" class="java.lang.String" itemvalue="Python.Collections" />
-        <item index="3" class="java.lang.String" itemvalue="Python.accounts" />
-        <item index="4" class="java.lang.String" itemvalue="Python.DocStringDemo" />
+        <item index="0" class="java.lang.String" itemvalue="Python.music" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Contact" />
+        <item index="2" class="java.lang.String" itemvalue="Python.CustomException" />
+        <item index="3" class="java.lang.String" itemvalue="Python.ducks" />
+        <item index="4" class="java.lang.String" itemvalue="Python.ExceptionHandling" />
       </list>
     </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
-  <component name="SvnConfiguration">
-    <configuration />
-  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="66ce8966-3491-4f08-9508-8055d3e5e58c" name="Default" comment="" />
-      <created>1525326144945</created>
+      <changelist id="54104ad2-b114-42eb-b218-99348617efb0" name="Default" comment="" />
+      <created>1525763287828</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1525326144945</updated>
-      <workItem from="1525326146858" duration="23639000" />
-      <workItem from="1525414287616" duration="1763000" />
-      <workItem from="1525683363100" duration="153000" />
-      <workItem from="1525686132813" duration="2600000" />
-      <workItem from="1525692283007" duration="5083000" />
-      <workItem from="1525757388470" duration="62000" />
+      <updated>1525763287828</updated>
+      <workItem from="1525763289969" duration="5471000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33300000" />
+    <option name="totallyTimeSpent" value="5471000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="2" width="1932" height="1045" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Amazon EC2" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Material Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="JSON Viewer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Amazon EC2" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Material Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="JSON Viewer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.014423077" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="LiquibaseEJBModel" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33333334" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="LiquibaseModel" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20299146" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="LiquibaseEJBModel" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="LiquibaseModel" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1186,27 +1117,29 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/BlackJack.py</url>
-          <line>20</line>
-        </line-breakpoint>
-      </breakpoints>
-      <option name="time" value="1" />
-    </breakpoint-manager>
+    <breakpoint-manager />
     <watches-manager />
   </component>
-  <component name="antWorkspaceConfiguration">
-    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
-    <option name="FILTER_TARGETS" value="false" />
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/oops/interitance/main.py">
+    <entry file="file://$USER_HOME$/.IntelliJIdea2016.3/system/python_stubs/-919207483/builtins.py">
       <provider selected="true" editor-type-id="live-pycharm">
         <state>
-          <first_editor relative-caret-position="272">
-            <caret line="16" column="16" lean-forward="true" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
+          <first_editor relative-caret-position="23161">
+            <caret line="5717" column="6" lean-forward="false" selection-start-line="5717" selection-start-column="6" selection-end-line="5717" selection-end-column="6" />
+            <folding />
+          </first_editor>
+          <second_editor relative-caret-position="-119">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exception/ExceptionHandling.py">
+      <provider selected="true" editor-type-id="live-pycharm">
+        <state>
+          <first_editor relative-caret-position="289">
+            <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor relative-caret-position="0">
@@ -1216,17 +1149,90 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="live-pycharm">
+        <state>
+          <first_editor relative-caret-position="68">
+            <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ducks.py">
+      <provider selected="true" editor-type-id="live-pycharm">
+        <state>
+          <first_editor relative-caret-position="414">
+            <caret line="44" column="0" lean-forward="false" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor relative-caret-position="-119">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/9587a66e-db9e-4b12-aa9c-0f3287ab0932/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exception/CustomException.py">
+      <provider selected="true" editor-type-id="live-pycharm">
+        <state>
+          <first_editor relative-caret-position="102">
+            <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/de0b7395-2972-42d9-a6dd-827600939b32/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/15ee06bd/8825526f-dfb9-4ae5-bcb2-2d2bcba67efc/contacts">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/database/Contact.py">
       <provider selected="true" editor-type-id="live-pycharm">
         <state>
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <first_editor relative-caret-position="425">
+            <caret line="25" column="17" lean-forward="true" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
             <folding>
-              <marker date="1525700027581" expanded="true" signature="67:140" ph="CREATE TABLE... IF" />
-              <marker date="1525700027581" expanded="true" signature="155:250" ph="INSERT INTO contacts... " />
-              <marker date="1525700027581" expanded="true" signature="265:356" ph="INSERT INTO contacts... " />
-              <marker date="1525700027581" expanded="true" signature="371:457" ph="INSERT INTO contacts... " />
-              <marker date="1525700027581" expanded="true" signature="498:520" ph="SELECT * FRO... contacts" />
+              <marker date="1525767444237" expanded="true" signature="67:140" ph="CREATE TABLE... contacts" />
+              <marker date="1525767444237" expanded="true" signature="155:250" ph="INSERT INTO contacts... " />
+              <marker date="1525767444237" expanded="true" signature="265:356" ph="INSERT INTO contacts... " />
+              <marker date="1525767444237" expanded="true" signature="371:457" ph="INSERT INTO contacts... " />
+              <marker date="1525767444237" expanded="true" signature="498:520" ph="SELECT * FRO... contacts" />
+              <marker date="1525767444237" expanded="true" signature="523:699" ph="..." />
+              <marker date="1525767444237" expanded="true" signature="801:823" ph="SELECT * FRO... contacts" />
             </folding>
           </first_editor>
           <second_editor relative-caret-position="0">
@@ -1236,247 +1242,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/oops/interitance/Enemy.py">
+    <entry file="file://$PROJECT_DIR$/oswalker/music.py">
       <provider selected="true" editor-type-id="live-pycharm">
         <state>
-          <first_editor relative-caret-position="731">
-            <caret line="43" column="59" lean-forward="true" selection-start-line="43" selection-start-column="59" selection-end-line="43" selection-end-column="59" />
+          <first_editor relative-caret-position="102">
+            <caret line="6" column="25" lean-forward="true" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
             <folding />
-          </first_editor>
-          <second_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/oops/interitance/main.py">
-      <provider selected="true" editor-type-id="live-pycharm">
-        <state>
-          <first_editor relative-caret-position="170">
-            <caret line="10" column="12" lean-forward="true" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
-            <folding />
-          </first_editor>
-          <second_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/oops/interitance/Enemy.py">
-      <provider selected="true" editor-type-id="live-pycharm">
-        <state>
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/oops/DocExample.py">
-      <provider selected="true" editor-type-id="live-pycharm">
-        <state>
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Collections.py">
-      <provider selected="true" editor-type-id="live-pycharm">
-        <state>
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/oops/interitance/Enemy.py">
-      <provider selected="true" editor-type-id="live-pycharm">
-        <state>
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/oops/ClassExample.py" />
-    <entry file="file://$PROJECT_DIR$/oops/accounts.py" />
-    <entry file="file://$PROJECT_DIR$/oops/DocExample.py" />
-    <entry file="file://$PROJECT_DIR$/oops/interitance/Enemy.py" />
-    <entry file="file://$PROJECT_DIR$/oops/ClassExample.py" />
-    <entry file="file://$PROJECT_DIR$/oops/MethodExample.py" />
-    <entry file="file://$PROJECT_DIR$/oops/accounts.py" />
-    <entry file="file://$PROJECT_DIR$/HelloWorld.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="5" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Variables.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/StringFormating.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ControlFlow.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="402">
-          <caret line="94" column="14" lean-forward="true" selection-start-line="94" selection-start-column="14" selection-end-line="94" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cards/cards/1_club.png" />
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/tkinter/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="3497" column="0" lean-forward="false" selection-start-line="3497" selection-start-column="0" selection-end-line="3497" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/codecs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="331" column="0" lean-forward="false" selection-start-line="331" selection-start-column="0" selection-end-line="331" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BlackJack.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-744">
-          <caret line="23" column="65" lean-forward="true" selection-start-line="23" selection-start-column="65" selection-end-line="23" selection-end-column="65" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FunctionExample.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="24" column="38" lean-forward="true" selection-start-line="24" selection-start-column="38" selection-end-line="24" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ModuleExample.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="10" lean-forward="true" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/oops/DocStringDemo.py" />
-    <entry file="file://$PROJECT_DIR$/oops/MethodExample.py" />
-    <entry file="file://$PROJECT_DIR$/Collections.py">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="live-pycharm">
-        <state>
-          <first_editor relative-caret-position="476">
-            <caret line="28" column="32" lean-forward="true" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="32" />
-            <folding />
-          </first_editor>
-          <second_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/oops/DocExample.py">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="31" lean-forward="false" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="live-pycharm">
-        <state>
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/oops/interitance/Vampyre.py" />
-    <entry file="file://$PROJECT_DIR$/oops/interitance/Enemy.py">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="18" lean-forward="false" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="live-pycharm">
-        <state>
-          <first_editor relative-caret-position="731">
-            <caret line="43" column="59" lean-forward="false" selection-start-line="43" selection-start-column="59" selection-end-line="43" selection-end-column="59" />
-            <folding />
-          </first_editor>
-          <second_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/oops/interitance/main.py">
-      <provider selected="true" editor-type-id="live-pycharm">
-        <state>
-          <first_editor relative-caret-position="272">
-            <caret line="16" column="16" lean-forward="false" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
-            <folding />
-          </first_editor>
-          <second_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/database/Contact.py">
-      <provider selected="true" editor-type-id="live-pycharm">
-        <state>
-          <first_editor relative-caret-position="238">
-            <caret line="14" column="10" lean-forward="false" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
-            <folding>
-              <marker date="1525700027581" expanded="true" signature="67:140" ph="CREATE TABLE... IF" />
-              <marker date="1525700027581" expanded="true" signature="155:250" ph="INSERT INTO contacts... " />
-              <marker date="1525700027581" expanded="true" signature="265:356" ph="INSERT INTO contacts... " />
-              <marker date="1525700027581" expanded="true" signature="371:457" ph="INSERT INTO contacts... " />
-              <marker date="1525700027581" expanded="true" signature="498:520" ph="SELECT * FRO... contacts" />
-            </folding>
           </first_editor>
           <second_editor relative-caret-position="0">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -1487,98 +1258,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        <state relative-caret-position="102">
+          <caret line="6" column="14" lean-forward="false" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
           <folding />
         </state>
       </provider>
     </entry>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>No facets are configured</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <last-edited>Python 3.6.5 (C:\Users\NEX6ASM\AppData\Local\Programs\Python\Python36-32\python.exe) interpreter library</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>Python 3.6.5 (C:\Users\NEX6ASM\AppData\Local\Programs\Python\Python36-32\python.exe)</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>Python-poc</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>9</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
   </component>
 </project>
